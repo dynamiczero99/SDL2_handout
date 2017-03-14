@@ -1,0 +1,4 @@
+﻿  ModuleWindow.cpp
+c:\users\joelcp\desktop\sdl2_handout\modulewindow.cpp(12): error C2084: function 'bool ModuleWindow::Init(void)' already has a body
+  c:\users\joelcp\desktop\sdl2_handout\modulewindow.h(8): note: see previous definition of 'Init'
+c:\users\joelcp\desktop\sdl2_handout\modulewindow.cpp(17): warning C4002: too many actual parameters for macro 'LOG'
